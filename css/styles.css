@@ -7,6 +7,16 @@ body {
     height: 54px;
     justify-content: space-around;
     background-color: #1A242F;
+    padding-top: 8px;
+}
+
+.nav1 a {
+    color: #f8f8f8;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding-top: 4px;
+    font-size: 17px;
 }
 
 .nav2 {
@@ -15,13 +25,14 @@ body {
     justify-content: space-around;
     background-color: #1A242F;
 }
-a {
-    color: #f8f8f8;
+
+.nav2 a {
     text-decoration: none;
-    display: flex;
-    flex-direction: row;
-    padding-top: 4px;
-    font-size: 17px;
+    color: #3978BF;
+}
+
+.nav2 p {
+    color: white;
 }
 
 .apartado1 {
@@ -59,3 +70,4 @@ a {
     width: 50%;
     color: white;
 }
+
