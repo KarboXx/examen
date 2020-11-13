@@ -53,8 +53,8 @@ body {
 }
 
 .imagen2 {
-    background-color: #1A242F;
-    float:center;
+    display: block;
+    margin: auto;
 }
 
 .texto1 {
